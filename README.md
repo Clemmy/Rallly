@@ -15,7 +15,7 @@ To run Rallly you will need:
 Clone the repository on your machine and set the current directory to the root of the repository
 
 ```bash
-git clone git@github.com:lukevella/Rallly.git
+git clone git@github.com:Clemmy/Rallly.git
 cd Rallly
 ```
 Run the install script. You may need to adjust the permissions of the file to execute (`chmod 775 install.sh`). This will install the node and bower dependencies and create a sample configuration file.
